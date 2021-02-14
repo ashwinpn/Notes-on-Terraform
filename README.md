@@ -13,6 +13,10 @@ Terraform creates a graph of all the resources, and parallelizes the modificatio
 - High readability.
 - Make operations more structured with terraform plan.
 
+
+Also,
+- Platfrom Agnostic - Define configuration files to manage different cloud porviders (an heterogeneous environment) without the need to curate the workflow for each different provider. 
+
 ## Commands
 - ``` terraform plan```
 - ```terraform init```
