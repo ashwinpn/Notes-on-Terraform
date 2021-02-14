@@ -16,6 +16,7 @@ Terraform creates a graph of all the resources, and parallelizes the modificatio
 
 Also,
 - Platfrom Agnostic - Define configuration files to manage different cloud porviders (an heterogeneous environment) without the need to curate the workflow for each different provider. 
+- Operator Confidence
 
 ## Commands
 - ``` terraform plan```
